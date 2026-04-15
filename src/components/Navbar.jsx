@@ -34,7 +34,7 @@ const Navbar = ({ user }) => {
           onClick={() => setIsMenuOpen(false)}
           className="text-2xl font-bold tracking-tighter cursor-pointer"
         >
-          TinderClone❤️
+          TinderClone ❤️
         </Link>
         {user && (
           <span className="text-sm text-gray-600">
